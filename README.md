@@ -1,7 +1,7 @@
 <kbd><img src="https://cdn.discordapp.com/attachments/1212689642889936967/1233236686415204352/JTL-BLK.png?ex=662c5caa&is=662b0b2a&hm=80f5d821567238f51029ed14f3410ab3bec3faec0a07e1f556d445564bac9409&" /></kbd>
 ---
 [![](https://visitcount.itsvg.in/api?id=Jay-Untugs&icon=5&color=6)](https://visitcount.itsvg.in)
-- 👋 Hi, I’m @Jay-Untugs Founder of [CircuitForgeLabs.com](https://www.circuitforgelabs.com) & [JaysTechLab.com](https://www.jaystechlab.com)
+- 👋 Hi, I’m Jay Founder of [CircuitForgeLabs.com](https://www.circuitforgelabs.com) & [JaysTechLab.com](https://www.jaystechlab.com)
 - 👀 I’m interested in Ai and the rapid growing industry I want to be a part of that.
 - 🌱 I’m currently learning So mucn, I am taking courses online to further my knowledge.
 - 💞️ I’m looking to collaborate on designing a Wiki for the masses.
