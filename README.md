@@ -3,8 +3,8 @@
 [![](https://visitcount.itsvg.in/api?id=Jay-Untugs&icon=5&color=6)](https://visitcount.itsvg.in)
 - 👋 Hi, I’m Jay Founder of [CircuitForgeLabs.com](https://www.circuitforgelabs.com) & [JaysTechLab.com](https://www.jaystechlab.com)
 - 👀 I’m interested in Ai and the rapid growing industry I want to be a part of that.
-- 🌱 I’m currently learning About Ai, taking courses online to further my knowledge and skills.
-- 💞️ I’m looking to collaborate on designing a Wiki for the masses.
+- 🌱 I’m currently learning About Ai, taking courses to further my knowledge and improve my skills. 
+- 💞️ I’m looking to collaborate on designing a Wiki.
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact - I also love cars, I am part of the car scene where I live. My favorate auto maker is Audi!
  
