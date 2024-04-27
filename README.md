@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning About Ai, taking courses to further my knowledge and improve my skills. 
 - 💞️ I’m looking to collaborate on designing a Wiki.
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact - I also love cars, I am part of the car scene where I live. My favorate auto maker is Audi!
+- ⚡ Fun fact - I love Audi's
  
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Untugs&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
