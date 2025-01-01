@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning About Ai, taking courses to further my knowledge and improve my skills.  
 - 💞️ I’m looking to collaborate with other Ai Engineers
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact - I love Audi's & I will be buying a [RS7]([ https://www.audi.ca/en/models/a6/rs6-avant-performance/?csref=t1-sem-Google-AO-National-CMS-conversion-qualified-actions-x-A6-x-x-x&gad_source=1&gclid=Cj0KCQiAyc67BhDSARIsAM95Qzsrn1RhshYhh3Q69rWQajQtmGrirVCj6Oszmfvny_oWp4H0wZSZjAsaAgfvEALw_wcB](https://web-api.audi.com/dpu/v1/CA/en/pdf-ng?audicode=AB8WMSWU)) next!                
+- ⚡ Fun fact - I love Audi's & I will be buying a [RS7](https://web-api.audi.com/dpu/v1/CA/en/pdf-ng?audicode=AB8WMSWU) next!                
  
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bash-Sudo&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
