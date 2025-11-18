@@ -11,13 +11,10 @@ Hybrid Networking Hosted by:
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=140c27c25720&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
-- 👋 Hi, I’m am the Founder of [Cortex Art](https://cortexart.design), [Jays Tech Lab](https://www.jaystechlab.com) & [Circuit Forge Labs](https://www.circuitforgelabs.com).
-- 👀 I’m interested the rapid growing industry of Ai and Started [Circuit Forge Labs](https://www.circuitforgelabs.com)
+- 👋 Hi, I’m am the Founder of [Cortex Art](https://cortexart.design), [Jays Tech Lab](https://www.jaystechlab.com) & [Rubber Band Rangers](https://discord.gg/rubberbandrangers)
 - 🌱 I’m currently learning About Ai, taking courses to further my knowledge and improve my skills.  
-- 💞️ I’m looking to collaborate with other Ai Engineers
-- 😄 Pronouns: Him/He
-- ⚡ Fun fact - I love Audi's & I will be buying a [RS7](https://web-api.audi.com/dpu/v1/CA/en/pdf-ng?audicode=AB8WMSWU) next!                
- 
+- 💞️ I’m looking to collaborate with other developers!
+    
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bash-Sudo&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
