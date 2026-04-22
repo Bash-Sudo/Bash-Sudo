@@ -1,12 +1,3 @@
-
- 
-[![](https://visitcount.itsvg.in/api?id=Bash-Sudo&icon=5&color=6)](https://visitcount.itsvg.in)
-<div style="text-align: center;">
-  <a href="https://www.jaystechlab.com/portfolio">
-    <img src="https://jaystechlab.com/content/images/2024/10/Moms-Fav-JTL-Logo-512px-2.png" alt="Jays Tech Lab Badge" width="128" height="128">
-  </a>
-</div>
-
 Hybrid Networking Hosted by: 
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=140c27c25720&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
